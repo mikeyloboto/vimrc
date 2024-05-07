@@ -54,6 +54,7 @@ au Syntax * RainbowParenthesesLoadBraces
 syntax on
 let g:airline_powerline_fonts = 1
 set number
+set rnu
 set shiftwidth=4
 set tabstop=4
 highlight LineNr ctermfg=grey
