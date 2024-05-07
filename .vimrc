@@ -27,6 +27,7 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'maksimr/vim-jsbeautify'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'kien/rainbow_parentheses.vim'
+Plugin 'flazz/vim-colorschemes'
 
 
 
@@ -58,3 +59,6 @@ set rnu
 set shiftwidth=4
 set tabstop=4
 highlight LineNr ctermfg=grey
+set termguicolors
+let g:airline_theme='wombat'
+colorscheme bubblegum
