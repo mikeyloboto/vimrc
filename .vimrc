@@ -61,4 +61,4 @@ set tabstop=4
 highlight LineNr ctermfg=grey
 set termguicolors
 let g:airline_theme='wombat'
-colorscheme bubblegum
+colorscheme Tomorrow-Night
